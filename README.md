@@ -18,7 +18,7 @@
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=30&i=c,cs,cpp,java,python,pytorch,tensorflow,html,css,js,ts,react,next,php,mysql,docker,git,github,unity,linux,ubuntu" />
+    <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=30&i=c,cs,java,python,pytorch,tensorflow,html,css,js,ts,react,next,php,mysql,docker,git,github,unity,linux,ubuntu" />
   </p>
 
 ## 🌐 Socials:

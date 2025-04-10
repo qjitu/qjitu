@@ -1,25 +1,29 @@
-# Hi there!👋:
-  Hello! I'm software engineer attending a graduate school in Japan.
+## 👋 About Me!:
+  - I'm a graduate student and a passionate software engineer.  
+  - I'm particularly interested in **Web development**, **AR**, **IoT**, **machine learning**, and **cloud technologies**.  
+  - I actively participate in **lightning talks (LTs)** and **hackathons**, constantly seeking opportunities to learn and build exciting things.
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qjitu&theme=2077)
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qjitu&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
   
 
 ## 🏆 GitHub Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=qjitu)](https://github.com/ryo-ma/github-profile-trophy)
+  
+## ✏MySkill
+  **Languages:**<br>
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,ts,php)](https://skillicons.dev)
 
-# 💻 Tech Stack:
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjitu&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  **Frameworks:**<br>
+  [![My Skills](https://skillicons.dev/icons?i=react,next,laravel,bootstrap,pytorch,tensorflow)](https://skillicons.dev)
+
+  **Infra:**<br>
+  [![My Skills](https://skillicons.dev/icons?i=docker,mysql,sqlite)](https://skillicons.dev)
   
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qjitu&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qjitu&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=qjitu&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> 
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=30&i=c,cs,java,python,pytorch,tensorflow,html,css,js,ts,react,next,php,mysql,docker,git,github,unity,linux,ubuntu" />
-  </p>
+  **Others:**<br>
+  [![My Skills](https://skillicons.dev/icons?i=github,githubactions,linux)](https://skillicons.dev)
+
 
 ## 🌐 Socials:
   <p align="left">

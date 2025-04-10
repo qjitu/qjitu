@@ -1,5 +1,5 @@
-## 👋 About Me!:
-  - I'm a graduate student and a passionate software engineer.  
+## 👋 Hi,I`m Kyosuke!:
+  - I'm a graduate student and a passionate software engineer.🧑‍🎓
   - I'm particularly interested in **Web development**, **AR**, **IoT**, **machine learning**, and **cloud technologies**.  
   - I actively participate in **lightning talks (LTs)** and **hackathons**, constantly seeking opportunities to learn and build exciting things.
 
@@ -10,6 +10,9 @@
 
 ## 🏆 GitHub Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=qjitu)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📽️ My Projects
+[Click here to see my projects！](./output/readme.md)
   
 ## ✏MySkill
   **Languages:**<br>

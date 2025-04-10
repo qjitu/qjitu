@@ -9,7 +9,7 @@
   
 
 ## 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=qjitu)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=qjitu&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📽️ My Projects
 Check out my other project!: [My Project](https://github.com/qjitu/output)

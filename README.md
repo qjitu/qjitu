@@ -12,7 +12,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=qjitu)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📽️ My Projects
-[Click here to see my projects！](./output/readme.md)
+[Click here to see my projects！](./output)
   
 ## ✏MySkill
   **Languages:**<br>

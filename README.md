@@ -4,12 +4,19 @@
   - I actively participate in **lightning talks (LTs)** and **hackathons**, constantly seeking opportunities to learn and build exciting things.
 
 ## 📊 GitHub Stats:
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qjitu&theme=2077)
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qjitu&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=qjitu&show_icons=true&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="stats graph"/>
+    <img src="https://streak-stats.demolab.com?user=qjitu&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qjitu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
+  </div>
   
 
 ## 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=qjitu&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-profile-trophy.vercel.app/?username=qjitu&theme=darkhub"/>
+    </a>
+  </div>
 
 ## 📽️ My Projects
 Check out my other project!: [My Project](https://github.com/qjitu/output)

@@ -25,7 +25,7 @@ Check out my other project!: [My Project](https://github.com/qjitu/output)
   
 ## ✏MySkill
   **Languages:**<br>
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,ts,php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,html,css,js,ts,php,go,ruby)](https://skillicons.dev)
 
   **Frameworks:**<br>
   [![My Skills](https://skillicons.dev/icons?i=react,next,laravel,bootstrap,pytorch,tensorflow)](https://skillicons.dev)
